@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<print-service
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:vendor="jonbanjo"
+    android:addPrintersActivity="com.jonbanjo.cupsprint.PrinterMainActivity"
+    android:advancedPrintOptionsActivity="com.jonbanjo.printservice.ServicePrintJobActivity" 
+/>

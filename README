@@ -1,0 +1,25 @@
+
+
+Two versions:
+
+http://mobd.jonbanjo.com/jfcupsprint/default.php
+http://mobd.jonbanjo.com/jfcupsprintservice/
+
+The service version is better for kitkat
+
+
+
+fdroid entry:
+
+https://f-droid.org/forums/topic/cups-print-app/page/3/
+
+Src:
+
+Old adt project: http://mobd.jonbanjo.com/jfcupsprint/downloads/jfcupsprint.zip
+Cups4j(patched): http://mobd.jonbanjo.com/jfcupsprint/downloads/cups4jpatched.zip
+
+New adt project: http://mobd.jonbanjo.com/jfcupsprintservice/downloads/jfcupsprintservice.zip
+JfCups: http://mobd.jonbanjo.com/jfcupsprintservice/downloads/jfcups.zip
+
+
+
