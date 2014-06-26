@@ -31,6 +31,10 @@ android {
         targetCompatibility JavaVersion.VERSION_1_7
     }
 
+    packagingOptions {
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/LICENSE.txt'    }
+
     sourceSets {
         main {
             manifest.srcFile 'AndroidManifest.xml'
