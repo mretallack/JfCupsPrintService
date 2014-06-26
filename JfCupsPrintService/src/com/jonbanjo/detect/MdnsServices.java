@@ -28,9 +28,9 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
-import com.jmdns.ServiceInfo;
-import com.jmdns.impl.DNSIncoming;
-import com.jmdns.impl.DNSRecord;
+import javax.jmdns.ServiceInfo;
+import javax.jmdns.impl.DNSIncoming;
+import javax.jmdns.impl.DNSRecord;
 import com.jonbanjo.cups.CupsClient;
 
 public class MdnsServices{
